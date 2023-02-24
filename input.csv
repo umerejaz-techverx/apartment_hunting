@@ -1,0 +1,22 @@
+block1,block2,block3,block4,block5,req
+"{
+            ""gym"": False,
+            ""school"": False,
+            ""store"": False,
+        }","{
+            ""gym"": True,
+            ""school"": True,
+            ""store"": False,
+        }","{
+            ""gym"": True,
+            ""school"": True,
+            ""store"": False,
+        }","{
+            ""gym"": False,
+            ""school"": True,
+            ""store"": False,
+        }","{
+            ""gym"": False,
+            ""school"": False,
+            ""store"": True,
+        }","['gym']"
